@@ -1,3 +1,3 @@
 all:
 	mkdir -p build
-	gcc gonew.c -o build/go
+	gcc src/gonew.c -o build/go
